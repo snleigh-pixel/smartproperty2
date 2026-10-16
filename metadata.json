@@ -1,0 +1,6 @@
+{
+  "name": "PropPulse SG - Indicative Launch Pricing Engine",
+  "description": "Algorithmic Developer Breakeven & Fair Launch Value Calculator powered by URA Government Land Sales (GLS) & En-Bloc tender data in Singapore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
